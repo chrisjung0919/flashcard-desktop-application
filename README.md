@@ -95,6 +95,10 @@ python flashcards_gui.py
 
 ---
 
+## 🎥 Demo
+
+---
+
 ## 🔮 Potential Enhancements
 
 - Case-insensitive answer matching
