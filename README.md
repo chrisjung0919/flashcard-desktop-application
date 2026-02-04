@@ -115,13 +115,3 @@ python flashcards_gui.py
 
 **Chris Jung**   
 Computer Science @ University of California, Riverside
-
----
-
-### 💡 Why This Project Matters
-
-This application reflects real-world software development skills:
-- Translating user needs into features
-- Managing data persistence
-- Writing readable, maintainable code
-- Delivering a complete, functional product
