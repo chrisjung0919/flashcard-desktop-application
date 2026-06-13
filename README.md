@@ -114,4 +114,4 @@ python flashcards_gui.py
 ## 👨‍💻 Author
 
 **Chris Jung**   
-Computer Science @ University of California, Riverside
+Applied Math @ UC Berkeley
